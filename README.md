@@ -1,11 +1,27 @@
-This is a console-based implementation of the classic Hangman game written in C++. The player tries to guess the hidden word one letter at a time within a limited number of attempts. The game showcases core programming concepts like:
+# 🎮 Hangman Game in C++
 
-*Loops and conditionals
+Welcome to **C++ Man**, a console-based implementation of the classic Hangman game, written in modern C++. Built using object-oriented programming principles and STL containers.
 
-*String handling
+---
 
-*ASCII art rendering
+## 🚀 Features
 
-*Basic game logic and user interaction
+- Random word selection from a predefined list
+- Input validation and letter checking
+- Tracks correct and incorrect guesses
+- Victory and defeat conditions
+- Fun and interactive terminal interface
 
-*Ideal for beginners learning C++ and interested in game development fundamentals.
+---
+
+## 🧠 Concepts Used
+
+- C++ Classes and Objects
+- Vectors and Strings
+- Namespaces
+- User input handling
+- Random number generation
+
+---
+
+
